@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "028147547b520779",
+    "type": "split",
+    "children": [
+      {
+        "id": "027963445d40c962",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "831d84bb694796c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Woe and Decay/Campaign notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Campaign notes"
+            }
+          },
+          {
+            "id": "f037e39801b7e727",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Woe and Decay/Chayanne's Diary.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chayanne's Diary"
+            }
+          },
+          {
+            "id": "091e59dcbcf696cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Woe and Decay/Locations/Chumoi/Chumoi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chumoi"
+            }
+          },
+          {
+            "id": "c327d2a94870420a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "6e9043b4356f2c84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7f3e543a9e06bc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Woe and Decay/Locations/Chumoi/Chumoi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chumoi"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cc3bed1d098b0f2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7a2510999842928",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e53c0effa829a79",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fecbfe164583e667",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "534e9fe2d6c15af5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "efa93a6cc6bb22a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "235cd9da0bc27d84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e200f6fb8a17e930",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "9c8ef24384dd3740",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "4db0346049b47276",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "25fc5fa13fe370ad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f037e39801b7e727",
+  "lastOpenFiles": [
+    "Woe and Decay/Locations/Chumoi/Chumoi.md",
+    "Woe and Decay/Locations/Chumoi/IMG_6474.webp",
+    "Woe and Decay/Chayanne's Diary.md",
+    "Woe and Decay/Locations/Sleat‘s Kingdom/Sleat‘s Kingdom.md",
+    "Woe and Decay/Locations/Chumoi",
+    "Woe and Decay/Locations/Untitled 1.md",
+    "Woe and Decay/Campaign notes.md",
+    "Woe and Decay/Locations/Mimi Creek/Mimi Creek.md",
+    "Woe and Decay/IMG_2100.webp",
+    "Woe and Decay/IMG_2101.webp",
+    "Woe and Decay/IMG_2102.webp",
+    "Welcome.md",
+    "Woe and Decay/Locations/Sleat‘s Kingdom",
+    "Woe and Decay/Locations/Mimi Creek/IMG_6477.webp",
+    "Woe and Decay/Locations/Mimi Creek/IMG_6476.webp",
+    "Woe and Decay/Locations/Mimi Creek",
+    "Woe and Decay",
+    "Woe and Decay/Characters/Darmok",
+    "Woe and Decay/Locations",
+    "Woe and Decay/Characters"
+  ]
+}

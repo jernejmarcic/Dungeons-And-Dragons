@@ -1,0 +1,22 @@
+#Woe_and_Decay 
+## Campaign 1
+What a fucking day. When I got to the tavern, there was this halfling who had this dice game - a secret for a secret. I don't know if she had a licence but I don't care. I played with him and told him one of my magic recipes. 
+There were a bunch of other people too. A whole crowd.
+As I finished playing, I spotted this guy who seemed drunk I asked after him but tried to keep my distance. I've met enough violent drunk in my life to know to keep my distance. But this halfling approached him and tried to attack him.  Another halfling  (~~A human~~) came in to try and restrain them but they threw them off. A human and I tried to throw them back.  She shot fire and I used poison spray. It tanked the hits like nothing. A soldier came to break everything up and the guy drew a knife
+Eventually, he was killed. He was a doppelganger, but he was really weird looking. His eyes were bloodshot but the veins were black and he was covered in mushrooms. When I went to examine him, he shot spores everywhere.
+I backed the fuck away from him.
+Suddenly we were surrounded by police so I just fucking bolted through the tavern. I thought were was screwed when I tripped but they crashed too and I managed to vanish in the crowds.
+News travels fast. My dad and Tallulah undoubtedly know something happened at the tavern. God am I happy Tallulah wasn't in today.
+I went to Roses' Sanctuary to wait for them. They looked to worried when they arrived. 
+I explained everything to them and Phil knew immediately that we shouldn't  meet because the guards would follow them to find me, we knew I couldn‘t stay ... could stay the the city. Phil told me to meet up when they'd packed everything up and made a plan to leave!
+I can't. I can't force them to leave. They're safe. They have friends. I can't be the reason they have to leave.
+After staying in a house the slums and cooking foods for them and me.
+I turned myself in and they took me to a room with the strangers I met yesterday. Apparently we're going on some 'intelligence gathering mission'. Bullshit. This is in place of executions. We made plans to go to  [[Mimi Creek]].
+They let me pack my bags full of food and spices. Even mushrooms though I they were just glad to be rid of them. I don't get why they were scared though. Button mushroom don't infect people.
+ [[Mimi Creek]] was entirely infested with mimics. By we learned some interesting things. According to the logs, someone called  in sick  and was pronounced dead a few days later. Clearly this was was the start of a plague because this pattern repeated until the logs stopped.
+If they were zombies, I don;t know where their bodies have gone.
+The first infected person had been living out of the guest room in the tavern.
+The logs stopped a few months before the date one the calendar on the wall. The cities of Port Ray, Deevil and the Iron Fortress in the mountains all stopped delivering. Given their proximity to the grey zone on our maps it's safe to say they've all been lost to the zombies like  [[Mimi Creek]]. Unless there are any last stand holdouts, I think everything south the river is lost since the zombies are also getting into [[Chumoi]].
+I nearly drowned crossing the river but  Balthisaar the Bastard picked up my pan. We started looking for the road to [[Sleat‘s Kingdom]].
+During our rests, I finished developing a special oil for my pan. it should be able to absorb energy from my enemies and infuse my attacks with it.
+We met a merchant who gave us some invaluable information. Since  [[Mimi Creek]] fell about six months ago, no trade or information had past between the north and south. They might not even know if the south has fallen. The king of Sleat‘s has gone missing (a win if you ask me) but there is civil unrest. He didn‘t know about Deevil but Naptown is actively under seige so we know how far west they‘ve reached. He also said that Burn Town was the safest town to go to and sold us some gas masks. We met the halfling, the one we gambled with, and, after winning a few rounds, he told us that the fungus arrived on the material plane in the deserts of the north. He also said that he didn‘t know his own origins. We‘re heading to [[Sleat‘s Kingdom]]to see if they have more information. An up-to-date map would be great.
